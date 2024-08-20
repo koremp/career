@@ -13,3 +13,20 @@
 
 - [JS](https://github.com/koremp/junior-fe-interview-questions/blob/main/js/README.md)
 - [현직자 대상 인터뷰 관련 질문 (프라이빗 레포)](https://github.com/koremp/junior-fe-interview-questions/tree/main/interview_questions)
+
+### 나에 대한 면접질문
+
+#### 짧은 자기소개
+
+#### 지원동기
+
+#### 장단점
+
+#### 문제해결과정
+
+#### 다른 업무가 할당된다면
+
+#### 프론트엔드를 선택한 이유
+
+#### 
+
